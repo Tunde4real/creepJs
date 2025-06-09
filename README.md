@@ -1,5 +1,5 @@
 # creepJs
-### For Array's scraping test. The challenge is to visit the link below, evade as much bot detection techniques as possible, and gain a high trust score
+#### For Array's scraping test. The challenge is to visit the link below, evade as much bot detection techniques as possible, and gain a high trust score
 
 
 
